@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "t1.md",
-                "mode": "preview",
+                "file": "Welcome.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "t1.md",
+            "file": "Welcome.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "t1.md",
+            "file": "Welcome.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "t1.md"
+            "file": "Welcome.md"
           }
         }
       }
@@ -133,8 +133,8 @@
   },
   "active": "698d2e2f751f3f4d",
   "lastOpenFiles": [
-    "Welcome.md",
     "t1.md",
+    "Welcome.md",
     "README.md",
     "New Program.md"
   ]
